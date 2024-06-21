@@ -16,7 +16,6 @@ let questions;
 let correctAnswers;
 let candidateAnswers;
 
-runProgram();
 
 
 function askForName() {
